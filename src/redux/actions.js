@@ -1,5 +1,4 @@
-import { combineReducers } from "redux";
-
-export default combineReducers({
-  counter
+export const changeLanguage = (lng) => ({
+  type: "CHANGE_LANGUAGE",
+  payload: lng,
 });

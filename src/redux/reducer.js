@@ -2,8 +2,11 @@ import { initialState } from "./initialState";
 
 const reducer = (state = initialState, action) => {
   switch (action.type) {
-    case "": {
-      return state;
+    case "CHANGE_LANGUAGE": {
+      return {
+        ...state,
+        language: action.payload,
+      };
     }
 
     default: {
