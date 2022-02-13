@@ -1,0 +1,13 @@
+У нас есть такие категории:
+- Капсули (category: capsules, subcategory: null)
+- Гелі(різні ємкості) (category: gel, subcategory: Ariel, capacity: 5.7)
+- Коробки гелів (category: gel)
+- Порошок в мішках(різні ємкості) (category: powder)
+- Порошок в коробках(різні ємкості) (category: powder)
+- Порошок в Відрі(різні ємкості) (category: powder)
+- Шампунь бутилки (category: shampoo)
+- Шампунь поштучно (category: shampoo)
+- Доместос (category: domestos)
+- Фейри (category: fairy)
+- Мило (category: soap)
+-
